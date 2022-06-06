@@ -12,7 +12,6 @@
     </form>
 
     <?php
-    
     if($_POST) {
         $total = 0;
         $num1 = $_POST['number'];
